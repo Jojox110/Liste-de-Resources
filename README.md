@@ -1,4 +1,4 @@
-# Liste-de-Resource
+# Liste-de-Resource -> Encore en progress
 
 [**Python:**](https://en.wikipedia.org/wiki/Python_(programming_language))
 

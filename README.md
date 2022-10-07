@@ -1,10 +1,13 @@
 # Liste-de-Resource -> Encore en progress
 
+**ATTENTION**, C'est possible d'avoir des resources gratuite avec le "Student pack" offrit par github -> [Github student pack](https://education.github.com/pack)
+
 [**Python:**](https://en.wikipedia.org/wiki/Python_(programming_language))
 
 Pour des débutants:\
 [Apprendre du Python](https://www.youtube.com/watch?v=eWRfhZUzrAc)\
-[Apprendre du Python en créant 5 jeux](https://www.youtube.com/watch?v=XGf2GcyHPhc)
+[Apprendre du Python en créant 5 jeux](https://www.youtube.com/watch?v=XGf2GcyHPhc)\
+[Apprendre du Python avec un curriculum universitaire](https://programming-22.mooc.fi/part-1)
 
 **Pour ceux qui sont plus comfortable en Python:** 
 
@@ -40,6 +43,10 @@ Pratiquer ton Python (et tous les autres languages):\
 [Leetcode](https://leetcode.com/)\
 [Codewars](https://www.codewars.com/)\
 [Codechef](https://www.codechef.com/)
+
+Idée de projet en Python:\
+[7 idée de projet pour des débutants](https://www.geeksforgeeks.org/7-python-project-ideas-for-beginners/)
+[Grande liste d'idée - pas tout son pour des débutants](https://www.geeksforgeeks.org/python-projects-beginner-to-advanced/)
 
 Autre:\
 [Liste de frameworks pour du Python](https://www.javatpoint.com/python-frameworks)\
@@ -80,14 +87,18 @@ Autre:\
 [Pratiquer du Go en faisant 11 projet](https://www.youtube.com/watch?v=jFfo23yIWac)
 
 [**Javascript**](https://en.wikipedia.org/wiki/JavaScript), [**HTML**](https://en.wikipedia.org/wiki/HTML), [**CSS:**](https://en.wikipedia.org/wiki/CSS)\
+**Attention**, il y a beaucoup d'option pour le développement des sites web, faites votre propre recherche sur tes options avant de commencer.
+
 [TheOdinProject](https://www.theodinproject.com/)\
 [FreeCodeCamp](https://www.freecodecamp.org/)\
+[FullStackOpen](https://fullstackopen.com/en/)\
 [Apprendre du développement de site web - Vidéo](https://www.youtube.com/watch?v=zJSY8tbf_ys)\
 [Apprendre à créer des applications mobile avec React Native - Vidéo](https://www.youtube.com/watch?v=ANdSdIlgsEw) -> Connaisances des technologies du web requis
 
 [**TypeScript:**](https://en.wikipedia.org/wiki/TypeScript)\
 [Apprendre du TypeScript - Vidéo](https://www.youtube.com/watch?v=gp5H0Vw39yw)\
-[Apprendre du TypeScript - Lecture et Tâches](https://www.codecademy.com/learn/learn-typescript)
+[Apprendre du TypeScript - Lecture et Tâches](https://www.codecademy.com/learn/learn-typescript)\
+[Apprendre du TypeScript si tu connait déjà du JavaScript](https://scrimba.com/g/gintrototypescript)
 
 [**PHP:**](https://en.wikipedia.org/wiki/PHP)\
 [Apprendre du PHP - Vidéo](https://www.youtube.com/watch?v=OK_JCtrrv-c)\
@@ -100,3 +111,26 @@ Autre:\
 [**Dart:**](https://en.wikipedia.org/wiki/Dart_(programming_language))\
 [Apprendre Dart + Flutter](https://www.youtube.com/watch?v=VPvVD8t02U8)\
 [Créer un clone de Amazon avec Flutter et NodeJS](https://www.youtube.com/watch?v=ylJz7N-dv1E)
+
+**Liste de resources générales: (ils ont tout au moins des parties gratuit, c'est possible qu'il y a des parties qui demande un abonnement)**\
+[Scrimba](https://scrimba.com/allcourses)\
+[CodeCademy](https://www.codecademy.com/learn)
+
+[**Git + Github:**](https://github.com/)/
+[Github pour les débutants](https://www.youtube.com/watch?v=RGOj5yH7evk)\
+[Branches git](https://www.youtube.com/watch?v=e2IbNHi4uCI)\
+[Autre toturiel pour git](https://www.youtube.com/watch?v=Uszj_k0DGsg)\
+[^^, un vidéo extra](https://www.youtube.com/watch?v=qsTthZi23VE)\
+[Github Pages](https://www.youtube.com/watch?v=COxGHDYV4aY)\
+[Guide au développement "open source" avec Github](https://www.youtube.com/watch?v=yzeVMecydCE)
+
+[**Linux:**]\
+**Attention**, si vous êtes intéresser par Linux, essayer le dans un environement virtuelle come [VirtualBox](https://www.virtualbox.org/) premier.
+
+[Pourquoi utiliser Linux pour la programmation](https://developerpitstop.com/why-is-linux-better-for-programming/)\
+[Quelle distribution utiliser](https://www.youtube.com/watch?v=Azh3-ZfUq5Q)\
+[Utiliser Linux dans VirtualBox](https://www.youtube.com/watch?v=Lwpmvpj1dnA)\
+[Guide a WSL2 (Windows Subsystem for Linux](https://www.youtube.com/watch?v=VMZH9Pj2dXw )
+
+
+

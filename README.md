@@ -2,6 +2,10 @@
 
 **ATTENTION**, C'est possible d'avoir des resources gratuite avec le "Student pack" offrit par github -> [Github student pack](https://education.github.com/pack)
 
+Outils pour la programmation:
+[Jetbrains IDEs (seulement 2 on des versions gratuit, tu peux avoir le reste dans la "Github student pack"](https://www.jetbrains.com/products/)
+[Visual Studio Code](https://code.visualstudio.com/)
+
 [**Python:**](https://en.wikipedia.org/wiki/Python_(programming_language))
 
 Pour des débutants:\
@@ -133,4 +137,14 @@ Autre:\
 [Guide a WSL2 (Windows Subsystem for Linux](https://www.youtube.com/watch?v=VMZH9Pj2dXw )
 
 
+**CyberSecurité**: (il y en a plein, ici son quelques options)\
+[HackTheBox (partiellement gratuit)](https://www.hackthebox.com/)\
+[TryHackMe (partiellement gratuit)](https://tryhackme.com/)\
+[CyberAces (gratuit)](https://www.sans.org/cyberaces/)\
+[Cybertitan - compétition canadienne de CyberSecurité](https://www.cybertitan.ca/)
 
+Autre que tu peux explorer:\
+[CyberSecLabs (partiellement gratuit)](https://www.cyberseclabs.co.uk/)\
+[BlueTeamLabsOnline (partiellement gratuit)](https://blueteamlabs.online/)\
+[TCM Security (pas gratuit)](https://academy.tcm-sec.com/courses)\
+[Une page avec quelques resources variée](https://github.com/cycoslave/ITSecMegaRepo)

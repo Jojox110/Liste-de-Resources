@@ -116,7 +116,7 @@ Autre:\
 [Scrimba](https://scrimba.com/allcourses)\
 [CodeCademy](https://www.codecademy.com/learn)
 
-[**Git + Github:**](https://github.com/)/
+[**Git + Github:**](https://github.com/)\
 [Github pour les débutants](https://www.youtube.com/watch?v=RGOj5yH7evk)\
 [Branches git](https://www.youtube.com/watch?v=e2IbNHi4uCI)\
 [Autre toturiel pour git](https://www.youtube.com/watch?v=Uszj_k0DGsg)\
@@ -124,7 +124,7 @@ Autre:\
 [Github Pages](https://www.youtube.com/watch?v=COxGHDYV4aY)\
 [Guide au développement "open source" avec Github](https://www.youtube.com/watch?v=yzeVMecydCE)
 
-[**Linux:**]\
+[**Linux:**](https://en.wikipedia.org/wiki/Linux)\
 **Attention**, si vous êtes intéresser par Linux, essayer le dans un environement virtuelle come [VirtualBox](https://www.virtualbox.org/) premier.
 
 [Pourquoi utiliser Linux pour la programmation](https://developerpitstop.com/why-is-linux-better-for-programming/)\

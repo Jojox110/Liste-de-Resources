@@ -10,7 +10,6 @@ Outils pour la programmation:
 
 Pour des débutants:\
 [Apprendre du Python](https://www.youtube.com/watch?v=eWRfhZUzrAc)\
-[Apprendre du Python en créant 5 jeux](https://www.youtube.com/watch?v=XGf2GcyHPhc)\
 [Apprendre du Python avec un curriculum universitaire](https://programming-22.mooc.fi/part-1)
 
 **Pour ceux qui sont plus comfortable en Python:** 
@@ -29,7 +28,9 @@ Créer un interface:\
 [Créer un interface avec Kivy](https://www.youtube.com/watch?v=l8Imtec4ReQ)
 
 Créer un jeu avec Python:\
-[Apprendre à utiliser PyGame](https://www.youtube.com/watch?v=FfWpgLFMI7w)
+[Apprendre à utiliser PyGame](https://www.youtube.com/watch?v=FfWpgLFMI7w)]\
+[Apprendre du Python en créant 5 jeux](https://www.youtube.com/watch?v=XGf2GcyHPhc)
+
 
 Apprendre l'intélligence artificielle avec du Python:\
 [AI avec Python](https://www.youtube.com/watch?v=XIrOM9oP3pA)
@@ -49,7 +50,7 @@ Pratiquer ton Python (et tous les autres languages):\
 [Codechef](https://www.codechef.com/)
 
 Idée de projet en Python:\
-[7 idée de projet pour des débutants](https://www.geeksforgeeks.org/7-python-project-ideas-for-beginners/)
+[7 idée de projet pour des débutants](https://www.geeksforgeeks.org/7-python-project-ideas-for-beginners/)\
 [Grande liste d'idée - pas tout son pour des débutants](https://www.geeksforgeeks.org/python-projects-beginner-to-advanced/)
 
 Autre:\
@@ -65,6 +66,7 @@ Autre:\
 
 [**C:**](https://simple.wikipedia.org/wiki/C_(programming_language))\
 [Apprendre du C - Vidéo](https://www.youtube.com/watch?v=j-_s8f5K30I)\
+[Apprendre du C - Vidéo option 2](https://www.youtube.com/watch?v=KJgsSFOSQv0)\
 [Apprendre du C - Lecture et Tâches](https://www.codecademy.com/catalog/language/c)
 
 [**Java:**](https://en.wikipedia.org/wiki/Java_(programming_language))\
@@ -79,7 +81,8 @@ Autre:\
 [Apprendre du C# - Vidéo](https://www.youtube.com/watch?v=GhQdlIFylQ8)\
 [Apprendre du C# - Lecture et Tâches](https://www.codecademy.com/learn/learn-c-sharp)
 
-[Créer des jeux avec Unity et C# - Unity Learn](https://learn.unity.com/?_gl=1*h530y3*_gcl_aw*R0NMLjE2MzY3MTY5ODMuQ2p3S0NBaUF2cmlNQmhBdUVpd0E4Q3M1bGFJenM2UXZhV2RxendXU3cwSUlFN3ZYLXBrLTgySU50QWRTTk5acEl4dThCUGZPMnBFeTFSb0M5ZDhRQXZEX0J3RQ..*_gcl_dc*R0NMLjE2MzY3MTY5ODMuQ2p3S0NBaUF2cmlNQmhBdUVpd0E4Q3M1bGFJenM2UXZhV2RxendXU3cwSUlFN3ZYLXBrLTgySU50QWRTTk5acEl4dThCUGZPMnBFeTFSb0M5ZDhRQXZEX0J3RQ..&_ga=2.182193959.1225568882.1643885899-337911776.1601136010)
+[Créer des jeux avec Unity et C# - Unity Learn](https://learn.unity.com/?_gl=1*h530y3*_gcl_aw*R0NMLjE2MzY3MTY5ODMuQ2p3S0NBaUF2cmlNQmhBdUVpd0E4Q3M1bGFJenM2UXZhV2RxendXU3cwSUlFN3ZYLXBrLTgySU50QWRTTk5acEl4dThCUGZPMnBFeTFSb0M5ZDhRQXZEX0J3RQ..*_gcl_dc*R0NMLjE2MzY3MTY5ODMuQ2p3S0NBaUF2cmlNQmhBdUVpd0E4Q3M1bGFJenM2UXZhV2RxendXU3cwSUlFN3ZYLXBrLTgySU50QWRTTk5acEl4dThCUGZPMnBFeTFSb0M5ZDhRQXZEX0J3RQ..&_ga=2.182193959.1225568882.1643885899-337911776.1601136010)\
+[Créer un application avec du C#](https://www.youtube.com/watch?v=wfWxdh-_k_4)
 
 [**Rust:**](https://en.wikipedia.org/wiki/Rust_(programming_language))\
 [Apprendre du Rust - Vidéo](https://www.youtube.com/watch?v=zF34dRivLOw)\
@@ -100,7 +103,7 @@ Autre:\
 [Apprendre à créer des applications mobile avec React Native - Vidéo](https://www.youtube.com/watch?v=ANdSdIlgsEw) -> Connaisances des technologies du web requis
 
 [**TypeScript:**](https://en.wikipedia.org/wiki/TypeScript)\
-[Apprendre du TypeScript - Vidéo](https://www.youtube.com/watch?v=gp5H0Vw39yw)\
+[Apprendre du TypeScript - Vidéo](https://www.youtube.com/watch?v=BwuLxPH8IDs)\
 [Apprendre du TypeScript - Lecture et Tâches](https://www.codecademy.com/learn/learn-typescript)\
 [Apprendre du TypeScript si tu connait déjà du JavaScript](https://scrimba.com/g/gintrototypescript)
 
@@ -114,6 +117,7 @@ Autre:\
 
 [**Dart:**](https://en.wikipedia.org/wiki/Dart_(programming_language))\
 [Apprendre Dart + Flutter](https://www.youtube.com/watch?v=VPvVD8t02U8)\
+[Apprendre Dart](https://www.youtube.com/watch?v=5xlVP04905w)
 [Créer un clone de Amazon avec Flutter et NodeJS](https://www.youtube.com/watch?v=ylJz7N-dv1E)
 
 **Liste de resources générales: (ils ont tout au moins des parties gratuit, c'est possible qu'il y a des parties qui demande un abonnement)**\
